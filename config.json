@@ -1,0 +1,14 @@
+{
+    "imagesInput" : "./images",
+    "fileOutput" : "MiJardin.pdf",
+
+    "widthImage" : 190.0,
+    "heightImage" : 190.0,
+
+    "topImage" : 40.0,
+    "leftImage" : 10.0,
+
+    "sheetStyle" : "A4",
+
+    "extImage" : "jpg"
+}
