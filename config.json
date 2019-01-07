@@ -1,6 +1,6 @@
 {
     "imagesInput" : "./images",
-    "fileOutput" : "MiJardin.pdf",
+    "fileOutput" : "Libro.pdf",
 
     "widthImage" : 190.0,
     "heightImage" : 190.0,
